@@ -1,0 +1,3 @@
+/home/dawn/nju_os/build/CMakeFiles/ProcessTree.dir
+/home/dawn/nju_os/build/CMakeFiles/edit_cache.dir
+/home/dawn/nju_os/build/CMakeFiles/rebuild_cache.dir

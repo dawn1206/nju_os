@@ -4,4 +4,6 @@ project(ProcessTree)  # 设置项目名称
 
 set(CMAKE_CXX_STANDARD 17)  # 设置C++标准为C++17
 set(EXPORT_COMPILE_COMMANDS ON)
-add_executable(ProcessTree pstree.cc)  # 添加可执行文件
+set(CMAKE_CXX_FLAGS   "-g")                     # 调试信息
+
+add_executable(ProcessTree pstree.cc )  # 添加可执行文件

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/ProcessTree.dir/pstree.cc.o -o ProcessTree 
+/usr/bin/c++ -g CMakeFiles/ProcessTree.dir/pstree.cc.o -o ProcessTree 
